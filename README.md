@@ -7,9 +7,6 @@ This repository contains the source code for a full-stack hotel management websi
 ![image](https://github.com/user-attachments/assets/80a3a42c-6ac9-4eeb-b0b2-19488914e612)
 ![image](https://github.com/user-attachments/assets/ba91a46b-d4a7-4996-8ff1-e62008a699e5)
 
-### Backend:
-
-
 ## Features
 
 - **User Registration and Login:** Secure registration and login system for users.
@@ -55,6 +52,8 @@ To run this project locally, follow these steps:
    - Open phpMyAdmin in your browser (usually at `http://localhost/phpmyadmin`).
    - Create a new database called `hotel_management`.
    - Import the SQL file located in the `database` directory of the project to set up the required tables.
+   - ![image](https://github.com/user-attachments/assets/f85609dc-21b8-4bb2-903c-4b6845f7c48f)
+
 
 4. **Configure the Database Connection:**
    - Open `connect.php` in the project directory.
