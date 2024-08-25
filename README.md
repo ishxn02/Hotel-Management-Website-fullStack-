@@ -52,8 +52,6 @@ To run this project locally, follow these steps:
    - Open phpMyAdmin in your browser (usually at `http://localhost/phpmyadmin`).
    - Create a new database called `hotel_management`.
    - Import the SQL file located in the `database` directory of the project to set up the required tables.
-   - ![image](https://github.com/user-attachments/assets/f85609dc-21b8-4bb2-903c-4b6845f7c48f)
-
 
 4. **Configure the Database Connection:**
    - Open `connect.php` in the project directory.
