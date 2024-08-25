@@ -10,13 +10,13 @@ This repository contains the source code for a full-stack hotel management websi
 - **Responsive Design:** Fully responsive design, ensuring compatibility with all devices.
 - **Data Management:** All data is managed using MySQL with phpMyAdmin for database administration.
 
-## Demo:
-### Frontend:
+## Demo
+### Frontend
 ![image](https://github.com/user-attachments/assets/88be5b8f-eec2-4cca-beb0-d82b63ed6c3f)
 ![image](https://github.com/user-attachments/assets/80a3a42c-6ac9-4eeb-b0b2-19488914e612)
 ![image](https://github.com/user-attachments/assets/ba91a46b-d4a7-4996-8ff1-e62008a699e5)
 
-### Backend:
+### Backend
 ![image](https://github.com/user-attachments/assets/067508ca-c6b7-414c-b5a5-418f1611789f) 
 ![image](https://github.com/user-attachments/assets/a0b84e43-a530-4a66-9f38-eb29d532b2f1)
 
