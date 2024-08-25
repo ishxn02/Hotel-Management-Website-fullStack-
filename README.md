@@ -1,6 +1,15 @@
 # Hotel-Management-Website-fullStack-
 This repository contains the source code for a full-stack hotel management website developed using PHP, CSS, JavaScript, HTML, and SQL. The project is designed to handle various functionalities required for managing a hotel, including booking rooms, managing customer data, and handling payments. The database is managed using phpMyAdmin, and the project is hosted on a XAMPP server.
 
+## Demo:
+### Frontend:
+![image](https://github.com/user-attachments/assets/88be5b8f-eec2-4cca-beb0-d82b63ed6c3f)
+![image](https://github.com/user-attachments/assets/80a3a42c-6ac9-4eeb-b0b2-19488914e612)
+![image](https://github.com/user-attachments/assets/ba91a46b-d4a7-4996-8ff1-e62008a699e5)
+
+### Backend:
+
+
 ## Features
 
 - **User Registration and Login:** Secure registration and login system for users.
