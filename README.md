@@ -8,3 +8,14 @@ This repository contains the source code for a full-stack hotel management websi
 - Payment Gateway Integration: Simulated payment process for bookings.
 - Responsive Design: Fully responsive design, ensuring compatibility with all devices.
 - Data Management: All data is managed using MySQL with phpMyAdmin for database administration.
+
+## Technologies Used
+- Frontend:
+  -HTML
+  -CSS
+  -JavaScript
+Backend:
+PHP
+MySQL (phpMyAdmin)
+Server:
+XAMPP (Apache, MySQL, PHP)
