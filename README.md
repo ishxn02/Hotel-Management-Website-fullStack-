@@ -37,4 +37,27 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/hotel-management-website.git
+   git clone https://github.com/your-username/hotel-management-website.git ````
+2. **Start XAMPP:**
+   - Open the XAMPP Control Panel.
+   - Start the **Apache** and **MySQL** services by clicking on the "Start" button next to each.
+
+3. **Set Up the Database:**
+   - Open phpMyAdmin in your browser (usually at `http://localhost/phpmyadmin`).
+   - Create a new database called `hotel_management`.
+   - Import the SQL file located in the `database` directory of the project to set up the required tables.
+
+4. **Configure the Database Connection:**
+   - Open `connect.php` in the project directory.
+   - Update the database credentials as needed:
+     ```php
+     $servername = "localhost";
+     $username = "root";
+     $password = ""; // Default is empty
+     $dbname = "hotel_management";
+     ```
+
+5. **Deploy the Project:**
+   - Move the project folder to the `htdocs` directory of your XAMPP installation.
+   - Access the project in your browser at `http://localhost/hotel-management-website`.
+   
