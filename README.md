@@ -12,10 +12,10 @@ This repository contains the source code for a full-stack hotel management websi
 ## Technologies Used
 - Frontend:
   - HTML
-  -CSS
-  -JavaScript
-Backend:
-PHP
-MySQL (phpMyAdmin)
-Server:
-XAMPP (Apache, MySQL, PHP)
+  - CSS
+  - JavaScript
+- Backend:
+  - PHP
+  - MySQL (phpMyAdmin)
+- Server:
+  -XAMPP (Apache, MySQL, PHP)
