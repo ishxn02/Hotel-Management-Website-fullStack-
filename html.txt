@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/1ab94d0eba.js" crossorigin="anonymous"></script>
+    <title>Login Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="container">
+        <h2>Sign Up</h2>
+        <form action="connect.php" method = "post">
+            <div class="input-field">
+                <input type="text" name="firstName" id="firstName"
+                    placeholder="Enter your first name">
+                <div class="underline"></div>
+            </div>
+            <div class="input-field">
+                <input type="text" name="lastName" id="lastName" 
+                    placeholder="Enter your Last name">
+                <div class="underline"></div>
+            </div>
+            
+            <div class = "gender" id = "gender">
+                <label for = "gender">Gender</label>
+                <div class = "radioButtons" id = "radioButtons">
+                    <label for="male" class="radio-inline"
+                    ><input
+                      type="radio"
+                      name="gender"
+                      value="m"
+                      id="male"
+                    />Male</label
+                  >
+                  <label for="female" class="radio-inline"
+                    ><input
+                      type="radio"
+                      name="gender"
+                      value="f"
+                      id="female"
+                    />Female</label
+                  >
+                  <label for="others" class="radio-inline"
+                    ><input
+                      type="radio"
+                      name="gender"
+                      value="o"
+                      id="others"
+                    />Others</label
+                  >
+                </div>
+            </div>
+            <div class="input-field">
+                <input type="text" name="email" id="email" 
+                    placeholder="Enter your email id ">
+                <div class="underline"></div>
+            </div>
+            <div class="input-field">
+                <input type="text" name="phoneNumber" id="phoneNumber"
+                    placeholder="Enter your phone number ">
+                <div class="underline"></div>
+            </div>
+
+            <input type="submit">
+        </form>
+
+        <div class="footer">
+            <span>Or Connect With Social Media</span>
+            <div class="social-fields">
+                <div class="social-field twitter">
+                    <a href="#">
+                        <i class="fab fa-twitter"></i>
+                        Sign in with Twitter
+                    </a>
+                </div>
+                <div class="social-field facebook">
+                    <a href="#">
+                        <i class="fab fa-facebook-f"></i>
+                        Sign in with Facebook
+                    </a>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
