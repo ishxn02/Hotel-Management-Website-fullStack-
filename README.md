@@ -11,7 +11,7 @@ This repository contains the source code for a full-stack hotel management websi
 
 ## Technologies Used
 - Frontend:
-  -HTML
+  - HTML
   -CSS
   -JavaScript
 Backend:
